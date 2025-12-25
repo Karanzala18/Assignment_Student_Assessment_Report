@@ -1,5 +1,5 @@
 To Run:
-  1. clone the repo::
+  1. clone the repo:
   2. in backend folder open cmd and run this commnad <br>
      npm init -y <br>
      node server.js
