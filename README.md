@@ -1,10 +1,10 @@
 To Run:
   1. clone the repo::
-  2. in backend folder open cmd and run this commnad
-     npm init -y
+  2. in backend folder open cmd and run this commnad <br>
+     npm init -y <br>
      node server.js
-  3. in frontend folder open cmd and run this command:
-     npm i
+  3. in frontend folder open cmd and run this command: <br>
+     npm i <br>
      npm run dev
   4. in chrome open  http://localhost:5173/    <- change port if frontend running on different port
 
